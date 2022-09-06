@@ -1,13 +1,11 @@
-﻿using HR.LeaveManagement.Application.DTOs;
-using HR.LeaveManagement.Domain;
-using MediatR;
+﻿using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace HR.LeaveManagement.Application.Features.LeaveTypes.Requests.Commands
 {
-    public class GetLeaveTypeDetailRequest:IRequest<LeaveTypeDto>
+    public class DeleteLeaveTypeCommand:IRequest
     {
         public int Id { get; set; }
     }

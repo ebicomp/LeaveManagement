@@ -11,3 +11,16 @@ I:\Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstand
 I:\Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
 I:\Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
 I:\Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+I:\Learning Videos\Asp.net Clean Architecture\MyProject\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
