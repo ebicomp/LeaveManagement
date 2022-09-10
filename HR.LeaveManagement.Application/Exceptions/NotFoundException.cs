@@ -4,7 +4,11 @@ using System.Text;
 
 namespace HR.LeaveManagement.Application.Exceptions
 {
-    class NotFoundException
+    class NotFoundException : ApplicationException
     {
+        public NotFoundException(string name, object key) : base($"{name} ({key}) was not found")
+        {
+
+        }
     }
 }
