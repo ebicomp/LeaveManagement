@@ -20,15 +20,13 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
     {
 
         private readonly ILeaveRequestRepository _leaveRequestRepository;
-        private readonly IEmailSender _emailSender;
+        //private readonly IEmailSender _emailSender;
         private readonly IMapper _mapper;
 
         public CreateaLeaveRequestCommandHandler(ILeaveRequestRepository leaveRequestRepository,
-            IEmailSender emailSender,
             IMapper mapper)
         {
             _leaveRequestRepository = leaveRequestRepository;
-            this._emailSender = emailSender;
             _mapper = mapper;
         }
 
@@ -53,20 +51,20 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
             response.Message = "Creation Successfull";
             response.Id = leaveRequest.Id;
 
-            var email = new Email { 
-                To = "sss@bbb.com",
-                Subject = "my email",
-                Body = "ssssssssssssssssssssssssssssssss"
-            };
-            try
-            {
-                await _emailSender.SendEmail(email);
-            }
-            catch (Exception)
-            {
+            //var email = new Email { 
+            //    To = "sss@bbb.com",
+            //    Subject = "my email",
+            //    Body = "ssssssssssssssssssssssssssssssss"
+            //};
+            //try
+            //{
+            //    await _emailSender.SendEmail(email);
+            //}
+            //catch (Exception)
+            //{
 
                 
-            }
+            //}
             
 
             return response;    
